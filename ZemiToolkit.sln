@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZemiScrape", "ZemiScrape\ZemiScrape.csproj", "{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zemi", "Zemi\Zemi.csproj", "{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Experimental|Any CPU = Experimental|Any CPU
+		Experimental|x64 = Experimental|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Debug|x64.ActiveCfg = Debug|x64
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Debug|x64.Build.0 = Debug|x64
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Experimental|Any CPU.ActiveCfg = Experimental|Any CPU
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Experimental|Any CPU.Build.0 = Experimental|Any CPU
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Experimental|x64.ActiveCfg = Experimental|x64
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Experimental|x64.Build.0 = Experimental|x64
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Release|x64.ActiveCfg = Release|x64
+		{21E3FFC3-4829-49B4-9E42-EC0CBC5C8BB8}.Release|x64.Build.0 = Release|x64
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Debug|x64.ActiveCfg = Debug|x64
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Debug|x64.Build.0 = Debug|x64
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Experimental|Any CPU.ActiveCfg = Experimental|Any CPU
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Experimental|Any CPU.Build.0 = Experimental|Any CPU
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Experimental|x64.ActiveCfg = Experimental|x64
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Experimental|x64.Build.0 = Experimental|x64
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Release|x64.ActiveCfg = Release|x64
+		{D1CBB285-9E7B-4A53-84ED-A741E9DAF70F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D882D39-0679-4442-B2C0-D5AD4D490C27}
+	EndGlobalSection
+EndGlobal

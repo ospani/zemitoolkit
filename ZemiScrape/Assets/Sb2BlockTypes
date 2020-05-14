@@ -1,0 +1,183 @@
+Operators,%,Reporter,No
+Operators,&,Boolean,No
+Operators,*,Reporter,No
+Operators,+,Reporter,No
+Operators,-,Reporter,No
+Operators,<,Boolean,No
+Operators,=,Boolean,No
+Operators,>,Boolean,No
+Sensing,answer,Reporter,No
+Data,append:toList:,Stack,No
+Looks,backgroundIndex,Reporter,No
+Motion,bounceOffEdge,Stack,No
+Events,broadcast:,Stack,No
+Procedure call,call,Call,No
+Procedure definition, procDef, Hat, No
+Looks,changeGraphicEffect:by:,Stack,No
+Pen,changePenHueBy:,Stack,No
+Pen,changePenShadeBy:,Stack,No
+Pen,changePenSizeBy:,Stack,No
+Looks,changeSizeBy:,Stack,No
+Sound,p:,Stack,No
+Data,changeVar:by:,Stack,No
+Sound,changeVolumeBy:,Stack,No
+Sound,changeTempoBy:,Stack,No
+Motion,changeXposBy:,Stack,No
+Motion,changeYposBy:,Stack,No
+Pen,clearPenTrails,Stack,No
+Sensing,color:sees:,Boolean,No
+Looks,comeToFront,Stack,No
+Operators,computeFunction:of:,Reporter,No
+Operators,concatenate:with:,Reporter,No
+Data,contentsOfList:,Reporter,No
+Looks,costumeIndex,Reporter,No
+Control,createCloneOf,Stack,No
+Control,deleteClone,Cap,No
+Data,deleteLine:ofList:,Stack,No
+Sensing,distanceTo:,Reporter,No
+Sensing,doAsk,Stack,Yes
+Events,doBroadcastAndWait,Stack,No
+Control,doForever,C,No
+Control,doIf,C,No
+Control,doIfElse,C,No
+Control,doWhile,C, No
+Control, doForLoop,C,No
+Sound,doPlaySoundAndWait,Stack,No
+Control,doRepeat,C,No
+Control,doUntil,C,No
+Control,doWaitUntil,Stack,No
+Looks,filterReset,Stack,No
+Motion,forward:,Stack,No
+Sensing,getAttribute:of:,Reporter,No
+Data,getLine:ofList:,Reporter,No
+Procedure arguments,getParam,Parameter,No
+Sensing,getUserName,Reporter,No
+Motion,glideSecs:toX:y:elapsed:from:,Stack,No
+Looks,goBackByLayers:,Stack,No
+Motion,gotoSpriteOrMouse:,Stack,No
+Motion,gotoX:y:,Stack,No
+Motion,heading,Reporter,No
+Motion,heading:,Stack,No
+Looks,hide,Stack,No
+Data,hideList:,Stack,No
+Data,hideVariable:,Stack,No
+Data,insert:at:ofList:,Stack,No
+Sound,instrument:,Stack,No
+Sensing,keyPressed:,Boolean,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fgetDistance,Reporter,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fgetTilt,Reporter,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fmotorOff,Stack,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fmotorOn,Stack,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fmotorOnFor,Stack,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fplayNote,Stack,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fsetLED,Stack,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fsetMotorDirection,Stack,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fstartMotorPower,Stack,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fwhenDistance,Hat,Yes
+Lego Wedo 2.0,LEGOWeDo2.0\\u001fwhenTilted,Hat,Yes
+Lego Wedo 1.0,LEGOWeDo\\u001fgetDistance,Reporter,Yes
+Lego Wedo 1.0,LEGOWeDo\\u001fgetTilt,Reporter,Yes
+Lego Wedo 1.0,LEGOWeDo\\u001fmotorOff,Stack,Yes
+Lego Wedo 1.0,LEGOWeDo\\u001fmotorOn,Stack,Yes
+Lego Wedo 1.0,LEGOWeDo\\u001fmotorOnFor,Stack,Yes
+Lego Wedo 1.0,LEGOWeDo\\u001fsetMotorDirection,Stack,Yes
+Lego Wedo 1.0,LEGOWeDo\\u001fstartMotorPower,Stack,Yes
+Lego Wedo 1.0,LEGOWeDo\\u001fwhenDistance,Hat,Yes
+Lego Wedo 1.0,LEGOWeDo\\u001fwhenTilt,Hat,Yes
+Operators,letter:of:,Reporter,No
+Data,lineCountOfList:,Reporter,No
+Data,list:contains:,Boolean,No
+Looks,lookLike:,Stack,No
+Sensing,mousePressed,Boolean,Yes
+Sensing,mouseX,Reporter,Yes
+Sensing,mouseY,Reporter,Yes
+Looks,nextCostume,Stack,No
+Looks,nextScene,Stack,No
+Operators,not,Boolean,No
+Sound,noteOn:duration:elapsed:from:,Stack,No
+Pen,penColor:,Stack,No
+Pen,penSize:,Stack,No
+PicoBoard,PicoBoard\\u001fsensor,Reporter,Yes
+PicoBoard,PicoBoard\\u001fsensorPressed,Boolean,Yes
+PicoBoard,PicoBoard\\u001fwhenSensorConnected,Hat,Yes
+PicoBoard,PicoBoard\\u001fwhenSensorPass,Hat,Yes
+Sound,playDrum,Stack,No
+Sound,playSound:,Stack,No
+Motion,pointTowards:,Stack,No
+Pen,putPenDown,Stack,No
+Pen,putPenUp,Stack,No
+Operators,randomFrom:to:,Reporter,No
+Data,readVariable,Reporter,No
+Sound,rest:elapsed:from:,Stack,No
+Operators,rounded,Reporter,No
+Looks,say:,Stack,No
+Looks,say:duration:elapsed:from:,Stack,No
+Looks,scale,Reporter,No
+Looks,sceneName,Reporter,No
+Sensing,senseVideoMotion,Reporter,Yes
+Looks,setGraphicEffect:to:,Stack,No
+Data,setLine:ofList:to:,Stack,No
+Pen,setPenHueTo:,Stack,No
+Pen,setPenShadeTo:,Stack,No
+Motion,setRotationStyle,Stack,No
+Looks,setSizeTo:,Stack,No
+Sound,setTempoTo:,Stack,No
+Data,setVar:to:,Stack,No
+Sensing,setVideoState,Stack,No
+Sensing,setVideoTransparency,Stack,No
+Sound,setVolumeTo:,Stack,No
+Looks,show,Stack,No
+Data,showList:,Stack,No
+Data,showVariable:,Stack,No
+Sensing,soundLevel,Reporter,No
+Pen,stampCostume,Stack,No
+Looks,startScene,Stack,No
+Looks,startSceneAndWait,Stack,No
+Sound,stopAllSounds,Stack,No
+Control,stopScripts,Cap,No
+Operators,stringLength:,Reporter,No
+Sound,tempo,Reporter,No
+Looks,think:,Stack,No
+Looks,think:duration:elapsed:from:,Stack,No
+Sensing,timeAndDate,Reporter,No
+Sensing,timer,Reporter,No
+Sensing,timerReset,Stack,No
+Sensing,timestamp,Reporter,No
+Sensing,touching:,Boolean,No
+Sensing,touchingColor:,Boolean,No
+Motion,turnLeft:,Stack,No
+Motion,turnRight:,Stack,No
+Sound,volume,Reporter,No
+Control,wait:elapsed:from:,Stack,No
+Events,whenClicked,Hat,Yes
+Control,whenCloned,Hat,No
+Events,whenGreenFlag,Hat,No
+Events,whenIReceive,Hat,No
+Events,whenKeyPressed,Hat,Yes
+Events,whenSceneStarts,Hat,No
+Events,whenSensorGreaterThan,Hat,Yes
+Motion,xpos,Reporter,No
+Motion,xpos:,Stack,No
+Motion,ypos,Reporter,No
+Motion,ypos:,Stack,No
+Operators,/,Reporter,No
+Operators,|,Boolean,No
+Looks,hideAll,Stack,No
+Motion,scrollRight,Stack,No
+Motion,scrollUp,Stack,No
+Motion,scrollAlign,stack,No
+Motion,xScroll,Stack,No
+Motion,yScroll,Stack,No
+Looks,changeStretchBy:,Stack,No
+Looks,setStretchTo:,Stack,No
+Looks,costumeName,Reporter,No
+Music,drum:duration:elapsed:from:,Stack,No
+Music,midiInstrument:,Stack,No
+Control,COUNT,Unknown,No
+Control,INCR_COUNT,Unknown,No
+Control,CLR_COUNT,Unknown,No
+Control,warpSpeed,C,No
+Sensing,isLoud,Unknown,No
+Sensing,getUserId,Reporter,No
+Data,getVar:,Unknown,No
+unknown,unknown,unknown,No
